@@ -46,3 +46,4 @@ docker build -t rffmpeg-worker .
 ## License
 
 MIT
+# Rebuild trigger
